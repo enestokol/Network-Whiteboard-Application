@@ -14,7 +14,7 @@ You can run the Application using the Jar files located in the jar-files folder
 ![jar](https://github.com/enestokol/Network-Whiteboard-Application/blob/master/WhiteBoard.PNG "Jar files")
 
 
-Contributors
+# Contributors
 - ENES TOKOL
 - SEFA TAŞYARAN
 
